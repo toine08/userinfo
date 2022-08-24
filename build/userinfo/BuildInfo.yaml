@@ -9,12 +9,12 @@ compiled_package_info:
     sender: "0000000000000000000000000000000000000000000000000000000000000000"
     std: "0000000000000000000000000000000000000000000000000000000000000001"
     vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
-  source_digest: E18FEE4C89A0ADEFFD40A631F04ED7ABBA1420AACA4C2283E8EF146E572493F3
+  source_digest: EAE49E8F45817E40D9DF642438B36C814EEAD93D109F2F21EF0F778F121593AA
   build_flags:
-    dev_mode: false
-    test_mode: false
-    generate_docs: true
-    generate_abis: true
+    dev_mode: true
+    test_mode: true
+    generate_docs: false
+    generate_abis: false
     install_dir: ~
     force_recompilation: false
     additional_named_addresses: {}
